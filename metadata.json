@@ -1,0 +1,5 @@
+{
+  "name": "WiraHati",
+  "description": "Suggests immediate, action-oriented physical coping strategies based on a user's logged emotion and pairs it with a follow-along video.",
+  "requestFramePermissions": []
+}
